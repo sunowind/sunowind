@@ -10,8 +10,8 @@ I'm Sunowind, a developer from Wuhan.
 - [Contact](#contact)
 
 ## About Me
-🌱 Currently learning: Distributed Systems, Cursor 
-💼 Working on: Salesforce System
+🌱 Currently learning: Distributed Systems, Cursor  
+💼 Working on: Salesforce System  
 🏆 Fun fact: I love coding and communicating
 
 ## GitHub Status
