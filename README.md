@@ -10,10 +10,9 @@ I'm Sunowind, a developer from Wuhan.
 - [Contact](#contact)
 
 ## About Me
-🌱 Currently learning: Cloud Computing, Distributed Systems  
-💼 Working on: Open-source Java and JavaScript projects  
-🤝 Looking to collaborate on: Cloud-native applications  
-🏆 Fun fact: I love coding and sharing knowledge!
+🌱 Currently learning: Distributed Systems, Cursor 
+💼 Working on: Salesforce System
+🏆 Fun fact: I love coding and communicating
 
 ## GitHub Status
 <div align="center">
@@ -30,17 +29,17 @@ I'm Sunowind, a developer from Wuhan.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
 </div>
 
-- **Java**: Backend development, Spring Boot
-- **JavaScript**: Frontend & Node.js
-- **Google Cloud**: Cloud solutions & deployment
+- **Backend**: Java, Spring Boot, Spring Cloud
+- **Frontend**: Typescript, React
+- **Devops**: Google Cloud, K8s, Docker
 
 ## GitHub Commits Snake
 <img src="https://raw.githubusercontent.com/sunowind/sunowind/output/snake.svg" alt="Snake animation" />
 
 ## Contact
 - [GitHub](https://github.com/sunowind)
-- [Email](mailto:your.email@example.com)
+- [Email](mailto:x1365181606@gmail.com)
 
 ---
 
-Welcome to here~
+Welcome to ~
