@@ -2,13 +2,6 @@
 
 I'm Sunowind, a developer from Wuhan.
 
-## Table of Contents
-- [About Me](#about-me)
-- [GitHub Status](#github-status)
-- [Tech Stack](#tech-stack)
-- [GitHub Commits Snake](#github-commits-snake)
-- [Contact](#contact)
-
 ## About Me
 🌱 Currently learning: Distributed Systems, Cursor  
 💼 Working on: Salesforce System  
