@@ -20,7 +20,7 @@ I'm Sunowind, a developer from Wuhan.
   <img src="https://github-readme-stats-sunowinds-projects.vercel.app//api/top-langs?username=sunowind&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 <div align="center">
-  <img src="https://github-readme-stats-sunowind.vercel.app/api/leetcode?username=sunowind&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph">
+  <img src="https://github-readme-stats-sunowind.vercel.app/api/leetcode?username=sunowind&theme=dracula&hide_border=false&order=2" height="150" alt="leetcode graph">
 </div>
 
 ## Tech Stack
