@@ -27,8 +27,6 @@
 - ☁️ **Focus**: Java backend, Spring Cloud, K8s & GCP
 
 </td>
-    <td align="center">
-</td>
   </tr>
 </table>
 
