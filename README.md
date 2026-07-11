@@ -25,13 +25,9 @@
 - 🌱 **Currently learning**: Distributed Systems, AI-assisted Coding (Cursor)
 - 💼 **Working on**: Salesforce System
 - ☁️ **Focus**: Java backend, Spring Cloud, K8s & GCP
-- 🏆 **Fun fact**: I love coding and communicating with developers
 
 </td>
     <td align="center">
-
-<img src="https://github-readme-stats-sunowinds-projects.vercel.app/api?username=sunowind&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="160" alt="stats graph" />
-
 </td>
   </tr>
 </table>
